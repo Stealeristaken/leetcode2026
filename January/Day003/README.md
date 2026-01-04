@@ -1,4 +1,4 @@
-````markdown
+
 # Day 003 - Number of Ways to Paint N × 3 Grid
 
 **Date:** January 3, 2026  
@@ -87,4 +87,3 @@ Where `n` is the number of rows in the grid.
 
 - [solution.py](solution.py) - Python implementation
 
-````
