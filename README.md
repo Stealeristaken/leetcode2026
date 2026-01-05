@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 4/31 |
+| January | 5/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 4/365**
+**Total: 5/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 2
-- 🟡 Medium: 1
+- 🟡 Medium: 2
 - 🔴 Hard: 1
 
 ## 📝 Solutions Index
@@ -50,6 +50,7 @@ leetcode2026/
 | 002 | Jan 02 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | 🟢 Easy | [Solution](January/Day002/solution.cpp) |
 | 003 | Jan 03 | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | 🔴 Hard | [Solution](January/Day003/solution.py) |
 | 004 | Jan 04 | [1390. Four Divisors](https://leetcode.com/problems/four-divisors/) | 🟡 Medium | [Solution](January/Day004/solution.py) |
+| 005 | Jan 05 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | 🟡 Medium | [Solution](January/Day005/solution.cpp) |
 
 ---
 
