@@ -1,4 +1,3 @@
-````markdown
 # Day 004 - Four Divisors
 
 **Date:** January 4, 2026  
@@ -86,4 +85,3 @@ Where `n` is the length of the array and `m` is the maximum value in the array.
 
 - [solution.py](solution.py) - Python implementation
 
-````
