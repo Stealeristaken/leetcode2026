@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 7/31 |
+| January | 8/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 7/365**
+**Total: 8/365**
 
 ## 📁 Structure
 
@@ -40,7 +40,7 @@ leetcode2026/
 
 - 🟢 Easy: 2
 - 🟡 Medium: 4
-- 🔴 Hard: 1
+- 🔴 Hard: 2
 
 ## 📝 Solutions Index
 
@@ -53,6 +53,7 @@ leetcode2026/
 | 005 | Jan 05 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | 🟡 Medium | [Solution](January/Day005/solution.cpp) |
 | 006 | Jan 06 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | 🟡 Medium | [Solution](January/Day006/solution.py) |
 | 007 | Jan 07 | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | 🟡 Medium | [Solution](January/Day007/solution.py) |
+| 008 | Jan 08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | 🔴 Hard | [Solution](January/Day008/solution.py) |
 
 ---
 
