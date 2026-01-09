@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 8/31 |
+| January | 9/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 8/365**
+**Total: 9/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 2
-- 🟡 Medium: 4
+- 🟡 Medium: 5
 - 🔴 Hard: 2
 
 ## 📝 Solutions Index
@@ -54,6 +54,7 @@ leetcode2026/
 | 006 | Jan 06 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | 🟡 Medium | [Solution](January/Day006/solution.py) |
 | 007 | Jan 07 | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | 🟡 Medium | [Solution](January/Day007/solution.py) |
 | 008 | Jan 08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | 🔴 Hard | [Solution](January/Day008/solution.py) |
+| 009 | Jan 09 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | 🟡 Medium | [Solution](January/Day009/solution.cpp) |
 
 ---
 
