@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 10/31 |
+| January | 11/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 10/365**
+**Total: 11/365**
 
 ## 📁 Structure
 
@@ -40,7 +40,7 @@ leetcode2026/
 
 - 🟢 Easy: 2
 - 🟡 Medium: 6
-- 🔴 Hard: 2
+- 🔴 Hard: 3
 
 ## 📝 Solutions Index
 
@@ -56,6 +56,7 @@ leetcode2026/
 | 008 | Jan 08 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | 🔴 Hard | [Solution](January/Day008/solution.py) |
 | 009 | Jan 09 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | 🟡 Medium | [Solution](January/Day009/solution.cpp) |
 | 010 | Jan 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | 🟡 Medium | [Solution](January/Day010/solution.py) |
+| 011 | Jan 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | [Solution](January/Day011/solution.py) |
 
 ---
 

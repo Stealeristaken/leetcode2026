@@ -1,4 +1,3 @@
-````markdown
 # Day 006 - Maximum Level Sum of a Binary Tree
 
 **Date:** January 6, 2026  
@@ -79,4 +78,3 @@ Where `n` is the number of nodes and `w` is the maximum width of the tree.
 
 - [solution.py](solution.py) - Python implementation
 
-````
