@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 11/31 |
+| January | 12/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 11/365**
+**Total: 12/365**
 
 ## 📁 Structure
 
@@ -38,7 +38,7 @@ leetcode2026/
 
 ## 🏷️ Difficulty Distribution
 
-- 🟢 Easy: 2
+- 🟢 Easy: 3
 - 🟡 Medium: 6
 - 🔴 Hard: 3
 
@@ -57,6 +57,7 @@ leetcode2026/
 | 009 | Jan 09 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | 🟡 Medium | [Solution](January/Day009/solution.cpp) |
 | 010 | Jan 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | 🟡 Medium | [Solution](January/Day010/solution.py) |
 | 011 | Jan 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | [Solution](January/Day011/solution.py) |
+| 012 | Jan 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | 🟢 Easy | [Solution](January/Day012/solution.cpp) |
 
 ---
 
