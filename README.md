@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 14/31 |
+| January | 15/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 14/365**
+**Total: 15/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 3
-- 🟡 Medium: 7
+- 🟡 Medium: 8
 - 🔴 Hard: 4
 
 ## 📝 Solutions Index
@@ -60,6 +60,7 @@ leetcode2026/
 | 012 | Jan 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | 🟢 Easy | [Solution](January/Day012/solution.cpp) |
 | 013 | Jan 13 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | 🟡 Medium | [Solution](January/Day013/solution.py) |
 | 014 | Jan 14 | [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [Solution](January/Day014/solution.cpp) |
+| 015 | Jan 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | 🟡 Medium | [Solution](January/Day015/solutipn.cpp) |
 
 ---
 
