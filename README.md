@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 22/31 |
+| January | 23/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 22/365**
+**Total: 23/365**
 
 ## 📁 Structure
 
@@ -40,7 +40,7 @@ leetcode2026/
 
 - 🟢 Easy: 5
 - 🟡 Medium: 13
-- 🔴 Hard: 4
+- 🔴 Hard: 5
 
 ## 📝 Solutions Index
 
@@ -68,6 +68,7 @@ leetcode2026/
 | 020 | Jan 20 | [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | 🟢 Easy | [Solution](January/Day020/solution.cpp) |
 | 021 | Jan 21 | [3315. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | 🟡 Medium | [Solution](January/Day021/solution.cpp) |
 | 022 | Jan 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | [Solution](January/Day022/solution.py) |
+| 023 | Jan 23 | [3508. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | 🔴 Hard | [Solution](January/Day023/solution.py) |
 
 ---
 
