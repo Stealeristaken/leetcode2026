@@ -80,4 +80,4 @@ Where `h` and `v` are lengths of hBars and vBars.
 
 ## Files
 
-- [solution.cpp](solutipn.cpp) - C++ implementation
+- [solution.cpp](solution.cpp) - C++ implementation

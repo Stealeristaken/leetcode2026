@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 23/31 |
+| January | 24/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 23/365**
+**Total: 24/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 5
-- 🟡 Medium: 13
+- 🟡 Medium: 14
 - 🔴 Hard: 5
 
 ## 📝 Solutions Index
@@ -60,7 +60,7 @@ leetcode2026/
 | 012 | Jan 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | 🟢 Easy | [Solution](January/Day012/solution.cpp) |
 | 013 | Jan 13 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | 🟡 Medium | [Solution](January/Day013/solution.py) |
 | 014 | Jan 14 | [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [Solution](January/Day014/solution.cpp) |
-| 015 | Jan 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | 🟡 Medium | [Solution](January/Day015/solutipn.cpp) |
+| 015 | Jan 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | 🟡 Medium | [Solution](January/Day015/solution.cpp) |
 | 016 | Jan 16 | [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | 🟡 Medium | [Solution](January/Day0016/solution.cpp) |
 | 017 | Jan 17 | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | 🟡 Medium | [Solution](January/Day017/solution.cpp) |
 | 018 | Jan 18 | [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | 🟡 Medium | [Solution](January/Day018/solution.py) |
@@ -69,6 +69,7 @@ leetcode2026/
 | 021 | Jan 21 | [3315. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | 🟡 Medium | [Solution](January/Day021/solution.cpp) |
 | 022 | Jan 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | [Solution](January/Day022/solution.py) |
 | 023 | Jan 23 | [3508. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | 🔴 Hard | [Solution](January/Day023/solution.py) |
+| 024 | Jan 24 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | 🟡 Medium | [Solution](January/Day024/solution.py) |
 
 ---
 
