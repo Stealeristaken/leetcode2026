@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 24/31 |
+| January | 25/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 24/365**
+**Total: 25/365**
 
 ## 📁 Structure
 
@@ -38,7 +38,7 @@ leetcode2026/
 
 ## 🏷️ Difficulty Distribution
 
-- 🟢 Easy: 5
+- 🟢 Easy: 6
 - 🟡 Medium: 14
 - 🔴 Hard: 5
 
@@ -70,6 +70,7 @@ leetcode2026/
 | 022 | Jan 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | [Solution](January/Day022/solution.py) |
 | 023 | Jan 23 | [3508. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | 🔴 Hard | [Solution](January/Day023/solution.py) |
 | 024 | Jan 24 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | 🟡 Medium | [Solution](January/Day024/solution.py) |
+| 025 | Jan 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 🟢 Easy | [Solution](January/Day025/solution.cpp) |
 
 ---
 
