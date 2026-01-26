@@ -61,7 +61,7 @@ leetcode2026/
 | 013 | Jan 13 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | 🟡 Medium | [Solution](January/Day013/solution.py) |
 | 014 | Jan 14 | [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [Solution](January/Day014/solution.cpp) |
 | 015 | Jan 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | 🟡 Medium | [Solution](January/Day015/solution.cpp) |
-| 016 | Jan 16 | [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | 🟡 Medium | [Solution](January/Day0016/solution.cpp) |
+| 016 | Jan 16 | [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | 🟡 Medium | [Solution](January/Day016/solution.cpp) |
 | 017 | Jan 17 | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | 🟡 Medium | [Solution](January/Day017/solution.cpp) |
 | 018 | Jan 18 | [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | 🟡 Medium | [Solution](January/Day018/solution.py) |
 | 019 | Jan 19 | [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | 🟡 Medium | [Solution](January/Day019/solution.py) |
