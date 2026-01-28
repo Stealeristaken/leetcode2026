@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 27/31 |
+| January | 28/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 27/365**
+**Total: 28/365**
 
 ## 📁 Structure
 
@@ -40,7 +40,7 @@ leetcode2026/
 
 - 🟢 Easy: 7
 - 🟡 Medium: 15
-- 🔴 Hard: 5
+- 🔴 Hard: 6
 
 ## 📝 Solutions Index
 
@@ -73,6 +73,7 @@ leetcode2026/
 | 025 | Jan 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 🟢 Easy | [Solution](January/Day025/solution.cpp) |
 | 026 | Jan 26 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [Solution](January/Day026/solution.cpp) |
 | 027 | Jan 27 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | 🟡 Medium | [Solution](January/Day027/solution.cpp) |
+| 029 | Jan 29 | [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | 🔴 Hard | [Solution](January/Day029/solution.cpp) |
 
 ---
 
