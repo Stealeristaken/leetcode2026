@@ -1,61 +1,77 @@
-# Day 029 - Find Minimum Time to Reach Last Room II
+# Day 029 - Minimum Cost to Convert String I
 
 **Date:** January 29, 2026  
-**LeetCode #:** 3342  
-**Difficulty:** Hard  
-**Link:** [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/)
+**LeetCode #:** 2976  
+**Difficulty:** Medium  
+**Link:** [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)
 
 ---
 
 ## Problem Description
 
-You are given a 2D grid of size `n x m` where `grid[i][j]` represents the cost to enter cell `(i, j)`. You start at `(0, 0)` with cost `0` and want to reach `(n-1, m-1)`.
+You are given two **0-indexed** strings `source` and `target`, both of length `n` and consisting of **lowercase** English letters. You are also given two **0-indexed** character arrays `original` and `changed`, and an integer array `cost`, where `cost[i]` represents the cost of changing the character `original[i]` to the character `changed[i]`.
 
-You can move **right** or **down** to adjacent cells, paying the cost of the destination cell. Additionally, you have up to `k` **teleport** abilities that let you jump to any cell with value ≤ current cell's value for **free**.
-
-Return the **minimum cost** to reach the destination, or `-1` if impossible.
+Return the **minimum cost** to convert the string `source` to the string `target` using any number of operations. If it is impossible, return `-1`.
 
 ### Example 1:
 ```
-Input: grid = [[1,2,3],[4,5,6],[7,8,9]], k = 1
-Output: Minimum cost path using optimal teleports
+Input: source = "abcd", target = "acbe", original = ["a","b","c","c","e","d"], changed = ["b","c","b","e","b","e"], cost = [2,5,5,1,2,20]
+Output: 28
+Explanation: 
+- Change 'b' to 'c' at cost 5
+- Change 'c' to 'e' at cost 1  
+- Change 'd' to 'e' at cost 20
+Total cost = 5 + 1 + 20 + 2 = 28
+```
+
+### Example 2:
+```
+Input: source = "aaaa", target = "bbbb", original = ["a","c"], changed = ["c","b"], cost = [1,2]
+Output: 12
+Explanation: Change each 'a' to 'c' (cost 1), then 'c' to 'b' (cost 2). Total: 4 × 3 = 12.
+```
+
+### Example 3:
+```
+Input: source = "abcd", target = "abce", original = ["a"], changed = ["e"], cost = [10000]
+Output: -1
+Explanation: Cannot convert 'd' to 'e'.
 ```
 
 ---
 
 ## Solution Approach
 
-### Method: Dijkstra's Algorithm with State Expansion (3D)
+### Method: Graph + Dijkstra with Memoization
 
-Extend Dijkstra to track position AND remaining teleports. Use sorted cell list for efficient teleport destination lookup.
+Model character transformations as a weighted directed graph and find shortest paths between character pairs.
 
 ### Key Insight:
 
-Each state is `(i, j, teleports_used)` - same cell with different teleport counts may have different optimal costs. Teleporting to cells with value ≤ current value enables "free" jumps to advantageous positions.
+Each character transformation `original[i] → changed[i]` with `cost[i]` is a directed edge in a graph. Finding the minimum cost to change character `a` to `b` is equivalent to finding the shortest path from `a` to `b`.
 
 ### Algorithm:
 
-1. **Preprocess:**
-   - Flatten grid into `(value, i, j)` tuples
-   - Sort by value for efficient teleport destination lookup
+1. **Build transformation graph:**
+   - Create adjacency list where `graph[c1][c2] = min cost` to directly change `c1` to `c2`
+   - Handle duplicate edges by keeping minimum cost
 
-2. **3D Distance Array:**
-   - `dist[i][j][k]` = minimum cost to reach `(i, j)` with `k` teleports used
+2. **Dijkstra for shortest paths:**
+   - For each unique `(source_char, target_char)` pair needed
+   - Run Dijkstra to find minimum transformation cost
+   - Cache results to avoid recomputation
 
-3. **Dijkstra with extended states:**
-   - Process `(cost, teleports_used, i, j)` from min-heap
-   - **Normal moves:** Go right/down, pay destination cell cost
-   - **Teleport:** If teleports remaining, jump to any cell with value ≤ current (free)
+3. **Calculate total cost:**
+   - For each position `i` where `source[i] != target[i]`
+   - Look up (or compute) shortest path cost
+   - If any transformation is impossible, return `-1`
+   - Sum all transformation costs
 
-4. **Optimization:**
-   - Track visited index per teleport count to avoid re-processing
-   - Skip cells already visited at better cost
+### Why Dijkstra:
 
-5. **Return** cost when reaching `(n-1, m-1)`
-
-### Why 3D State Space:
-
-Different paths to same cell may leave different teleports available. A path that "saves" teleports for later might be globally better even if locally more expensive.
+- Transformations can be chained: `a → b → c` might be cheaper than direct `a → c`
+- All costs are positive, making Dijkstra optimal
+- Graph is small (≤26 nodes for lowercase letters)
 
 ---
 
@@ -63,22 +79,22 @@ Different paths to same cell may leave different teleports available. A path tha
 
 | Complexity | Value | Explanation |
 |------------|-------|-------------|
-| **Time** | O(n·m·k · log(n·m·k)) | Dijkstra over 3D state space |
-| **Space** | O(n·m·k) | Distance array for all states |
+| **Time** | O(n + 26² · E log 26) | n for string scan, Dijkstra for up to 26² pairs |
+| **Space** | O(26² + E) | Cache for all pairs + graph storage |
 
-Where `n×m` is grid size and `k` is maximum teleports.
+Where `n` is string length and `E` is number of transformation rules.
 
 ---
 
 ## Key Takeaways
 
-- State expansion (adding dimensions) handles "resource" problems in shortest path
-- Sorting destinations enables efficient teleport target enumeration
-- Lazy processing with visited tracking avoids redundant computation
-- Dijkstra naturally extends to multi-dimensional state spaces
+- Character transformation problems often map to shortest path in graphs
+- Memoization of shortest paths avoids redundant Dijkstra calls
+- Graph with 26 nodes (alphabet) is small enough for per-pair shortest path
+- Keep minimum cost when multiple edges exist between same nodes
 
 ---
 
 ## Files
 
-- [solution.cpp](solution.cpp) - C++ implementation
+- [solution.py](solution.py) - Python implementation
