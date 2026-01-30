@@ -6,7 +6,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 
 | Month | Problems Solved |
 |-------|-----------------|
-| January | 29/31 |
+| January | 30/31 |
 | February | 0/28 |
 | March | 0/31 |
 | April | 0/30 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 29/365**
+**Total: 30/365**
 
 ## 📁 Structure
 
@@ -40,7 +40,7 @@ leetcode2026/
 
 - 🟢 Easy: 7
 - 🟡 Medium: 16
-- 🔴 Hard: 6
+- 🔴 Hard: 7
 
 ## 📝 Solutions Index
 
@@ -75,6 +75,7 @@ leetcode2026/
 | 027 | Jan 27 | [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | 🟡 Medium | [Solution](January/Day027/solution.cpp) |
 | 028 | Jan 28 | [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | 🔴 Hard | [Solution](January/Day028/solution.cpp) |
 | 029 | Jan 29 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | 🟡 Medium | [Solution](January/Day029/solution.py) |
+| 030 | Jan 30 | [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | 🔴 Hard | [Solution](January/Day030/solution.cpp) |
 
 ---
 
