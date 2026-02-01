@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 0/28 |
+| February | 1/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 31/365**
+**Total: 32/365**
 
 ## 📁 Structure
 
@@ -38,7 +38,7 @@ leetcode2026/
 
 ## 🏷️ Difficulty Distribution
 
-- 🟢 Easy: 8
+- 🟢 Easy: 9
 - 🟡 Medium: 16
 - 🔴 Hard: 7
 
@@ -77,6 +77,7 @@ leetcode2026/
 | 029 | Jan 29 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | 🟡 Medium | [Solution](January/Day029/solution.py) |
 | 030 | Jan 30 | [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | 🔴 Hard | [Solution](January/Day030/solution.cpp) |
 | 031 | Jan 31 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | 🟢 Easy | [Solution](January/Day031/solution.py) |
+| 032 | Feb 01 | [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | 🟢 Easy | [Solution](February/Day032/solution.cpp) |
 
 ---
 
