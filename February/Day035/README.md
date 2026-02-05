@@ -3,7 +3,7 @@
 **Date:** February 4, 2026  
 **LeetCode #:** 3535  
 **Difficulty:** Hard  
-**Link:** [Maximum Sum Trionic Subarray](https://leetcode.com/problems/maximum-sum-trionic-subarray/)
+**Link:** [Maximum Sum Trionic Subarray](https://leetcode.com/problems/bitonic-array-maximum-sum/)
 
 ---
 

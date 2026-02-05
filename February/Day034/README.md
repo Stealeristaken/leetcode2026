@@ -3,7 +3,7 @@
 **Date:** February 3, 2026  
 **LeetCode #:** 3534  
 **Difficulty:** Medium  
-**Link:** [Check if Array is Trionic](https://leetcode.com/problems/check-if-array-is-trionic/)
+**Link:** [Check if Array is Trionic](https://leetcode.com/problems/check-if-array-is-sorted/)
 
 ---
 

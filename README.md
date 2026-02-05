@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 4/28 |
+| February | 5/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 35/365**
+**Total: 36/365**
 
 ## 📁 Structure
 
@@ -38,7 +38,7 @@ leetcode2026/
 
 ## 🏷️ Difficulty Distribution
 
-- 🟢 Easy: 9
+- 🟢 Easy: 10
 - 🟡 Medium: 17
 - 🔴 Hard: 9
 
@@ -79,8 +79,9 @@ leetcode2026/
 | 031 | Jan 31 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | 🟢 Easy | [Solution](January/Day031/solution.py) |
 | 032 | Feb 01 | [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | 🟢 Easy | [Solution](February/Day032/solution.cpp) |
 | 033 | Feb 02 | [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | 🔴 Hard | [Solution](February/Day033/solution.py) |
-| 034 | Feb 03 | [3534. Check if Array is Trionic](https://leetcode.com/problems/check-if-array-is-trionic/) | 🟡 Medium | [Solution](February/Day034/solution.cpp) |
-| 035 | Feb 04 | [3535. Maximum Sum Trionic Subarray](https://leetcode.com/problems/maximum-sum-trionic-subarray/) | 🔴 Hard | [Solution](February/Day035/solution.cpp) |
+| 034 | Feb 03 | [3534. Check if Array is Trionic](https://leetcode.com/problems/check-if-array-is-sorted/) | 🟡 Medium | [Solution](February/Day034/solution.cpp) |
+| 035 | Feb 04 | [3535. Maximum Sum Trionic Subarray](https://leetcode.com/problems/bitonic-array-maximum-sum/) | 🔴 Hard | [Solution](February/Day035/solution.cpp) |
+| 036 | Feb 05 | [3379. Transformed Array](https://leetcode.com/problems/transformed-array/) | 🟢 Easy | [Solution](February/Day036/solution.py) |
 
 ---
 
