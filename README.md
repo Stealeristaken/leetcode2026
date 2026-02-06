@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 5/28 |
+| February | 6/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 36/365**
+**Total: 37/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 10
-- 🟡 Medium: 17
+- 🟡 Medium: 18
 - 🔴 Hard: 9
 
 ## 📝 Solutions Index
@@ -82,6 +82,7 @@ leetcode2026/
 | 034 | Feb 03 | [3534. Check if Array is Trionic](https://leetcode.com/problems/check-if-array-is-sorted/) | 🟡 Medium | [Solution](February/Day034/solution.cpp) |
 | 035 | Feb 04 | [3535. Maximum Sum Trionic Subarray](https://leetcode.com/problems/bitonic-array-maximum-sum/) | 🔴 Hard | [Solution](February/Day035/solution.cpp) |
 | 036 | Feb 05 | [3379. Transformed Array](https://leetcode.com/problems/transformed-array/) | 🟢 Easy | [Solution](February/Day036/solution.py) |
+| 037 | Feb 06 | [3380. Minimum Removal to Make Array Values Within K Ratio](https://leetcode.com/problems/minimum-removal-to-make-array-values-within-k-ratio/) | 🟡 Medium | [Solution](February/Day037/solution.py) |
 
 ---
 
