@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 8/28 |
+| February | 9/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 39/365**
+**Total: 40/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 11
-- 🟡 Medium: 19
+- 🟡 Medium: 20
 - 🔴 Hard: 9
 
 ## 📝 Solutions Index
@@ -85,6 +85,7 @@ leetcode2026/
 | 037 | Feb 06 | [3380. Minimum Removal to Make Array Values Within K Ratio](https://leetcode.com/problems/minimum-removal-to-make-array-values-within-k-ratio/) | 🟡 Medium | [Solution](February/Day037/solution.py) |
 | 038 | Feb 07 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | 🟡 Medium | [Solution](February/Day038/solution.py) |
 | 039 | Feb 08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | [Solution](February/Day039/solution.cpp) |
+| 040 | Feb 09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | 🟡 Medium | [Solution](February/Day040/solution.py) |
 
 ---
 
