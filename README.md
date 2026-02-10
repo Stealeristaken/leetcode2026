@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 9/28 |
+| February | 10/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 40/365**
+**Total: 41/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 11
-- 🟡 Medium: 20
+- 🟡 Medium: 21
 - 🔴 Hard: 9
 
 ## 📝 Solutions Index
@@ -86,6 +86,7 @@ leetcode2026/
 | 038 | Feb 07 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | 🟡 Medium | [Solution](February/Day038/solution.py) |
 | 039 | Feb 08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | [Solution](February/Day039/solution.cpp) |
 | 040 | Feb 09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | 🟡 Medium | [Solution](February/Day040/solution.py) |
+| 041 | Feb 10 | [3522. Longest Balanced Subarray](https://leetcode.com/problems/longest-balanced-subarray/) | 🟡 Medium | [Solution](February/Day041/solution.py) |
 
 ---
 
