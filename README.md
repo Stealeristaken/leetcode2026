@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 10/28 |
+| February | 13/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 41/365**
+**Total: 44/365**
 
 ## 📁 Structure
 
@@ -39,8 +39,8 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 11
-- 🟡 Medium: 21
-- 🔴 Hard: 9
+- 🟡 Medium: 23
+- 🔴 Hard: 10
 
 ## 📝 Solutions Index
 
@@ -87,6 +87,9 @@ leetcode2026/
 | 039 | Feb 08 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | [Solution](February/Day039/solution.cpp) |
 | 040 | Feb 09 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | 🟡 Medium | [Solution](February/Day040/solution.py) |
 | 041 | Feb 10 | [3522. Longest Balanced Subarray](https://leetcode.com/problems/longest-balanced-subarray/) | 🟡 Medium | [Solution](February/Day041/solution.py) |
+| 042 | Feb 11 | [3523. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | 🔴 Hard | [Solution](February/Day042/solution.py) |
+| 043 | Feb 12 | [3524. Longest Balanced Substring](https://leetcode.com/problems/longest-balanced-substring/) | 🟡 Medium | [Solution](February/Day043/solution.cpp) |
+| 044 | Feb 13 | [3525. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | 🟡 Medium | [Solution](February/Day044/solution.py) |
 
 ---
 
