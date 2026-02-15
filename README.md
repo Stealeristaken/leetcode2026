@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 14/28 |
+| February | 15/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 45/365**
+**Total: 46/365**
 
 ## 📁 Structure
 
@@ -38,7 +38,7 @@ leetcode2026/
 
 ## 🏷️ Difficulty Distribution
 
-- 🟢 Easy: 11
+- 🟢 Easy: 12
 - 🟡 Medium: 24
 - 🔴 Hard: 10
 
@@ -91,6 +91,7 @@ leetcode2026/
 | 043 | Feb 12 | [3524. Longest Balanced Substring](https://leetcode.com/problems/longest-balanced-substring/) | 🟡 Medium | [Solution](February/Day043/solution.cpp) |
 | 044 | Feb 13 | [3525. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | 🟡 Medium | [Solution](February/Day044/solution.py) |
 | 045 | Feb 14 | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | 🟡 Medium | [Solution](February/Day045/solution.py) |
+| 046 | Feb 15 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [Solution](February/Day046/solution.py) |
 
 ---
 
