@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 17/28 |
+| February | 18/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 48/365**
+**Total: 49/365**
 
 ## 📁 Structure
 
@@ -94,6 +94,7 @@ leetcode2026/
 | 046 | Feb 15 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [Solution](February/Day046/solution.py) |
 | 047 | Feb 16 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | [Solution](February/Day047/solution.cpp) |
 | 048 | Feb 17 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | 🟢 Easy | [Solution](February/Day048/solution.py) |
+| 049 | Feb 18 | [Problem Title Placeholder](https://leetcode.com/) | [Difficulty Placeholder] | [Solution](February/Day049/solution.cpp) |
 
 ---
 
