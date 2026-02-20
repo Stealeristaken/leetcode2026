@@ -1,9 +1,9 @@
-# Day 049 - [Title Placeholder]
+# Day 049 - Binary Number with Alternating Bits
 
 **Date:** February 18, 2026  
-**LeetCode #:** [Number Placeholder]  
-**Difficulty:** [Difficulty Placeholder]  
-**Link:** [Problem Link](https://leetcode.com/)
+**LeetCode #:** 693  
+**Difficulty:** Easy  
+**Link:** [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 
 ---
 
