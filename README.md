@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 20/28 |
+| February | 21/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 51/365**
+**Total: 52/365**
 
 ## 📁 Structure
 
@@ -38,7 +38,7 @@ leetcode2026/
 
 ## 🏷️ Difficulty Distribution
 
-- 🟢 Easy: 16
+- 🟢 Easy: 17
 - 🟡 Medium: 24
 - 🔴 Hard: 11
 
@@ -97,6 +97,7 @@ leetcode2026/
 | 049 | Feb 18 | [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | 🟢 Easy | [Solution](February/Day049/solution.cpp) |
 | 050 | Feb 19 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | 🟢 Easy | [Solution](February/Day050/solution.py) |
 | 051 | Feb 20 | [761. Special Binary String](https://leetcode.com/problems/special-binary-string/) | 🔴 Hard | [Solution](February/Day051/solution.py) |
+| 052 | Feb 21 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | 🟢 Easy | [Solution](February/Day052/solution.py) |
 
 ---
 
