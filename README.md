@@ -7,7 +7,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | Month | Problems Solved |
 |-------|-----------------|
 | January | 31/31 |
-| February | 22/28 |
+| February | 23/28 |
 | March | 0/31 |
 | April | 0/30 |
 | May | 0/31 |
@@ -19,7 +19,7 @@ A personal journey of solving **365 LeetCode problems** - one problem per day th
 | November | 0/30 |
 | December | 0/31 |
 
-**Total: 53/365**
+**Total: 54/365**
 
 ## 📁 Structure
 
@@ -39,7 +39,7 @@ leetcode2026/
 ## 🏷️ Difficulty Distribution
 
 - 🟢 Easy: 18
-- 🟡 Medium: 24
+- 🟡 Medium: 25
 - 🔴 Hard: 11
 
 ## 📝 Solutions Index
@@ -99,6 +99,7 @@ leetcode2026/
 | 051 | Feb 20 | [761. Special Binary String](https://leetcode.com/problems/special-binary-string/) | 🔴 Hard | [Solution](February/Day051/solution.py) |
 | 052 | Feb 21 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | 🟢 Easy | [Solution](February/Day052/solution.py) |
 | 053 | Feb 22 | [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | 🟢 Easy | [Solution](February/Day053/solution.py) |
+| 054 | Feb 23 | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | 🟡 Medium | [Solution](February/Day054/solution.cpp) |
 
 ---
 
